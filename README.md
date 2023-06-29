@@ -13,8 +13,8 @@ This project provides different converter-functions between different seismic wa
 We always welcome new ideas and improvements. Feel free to fork the repository and make modifications, file issues, etc. You can always email the authors for more information. Improvements in rendering and development of curriculum with educators are potential areas for future development.
 
 # References
-Not yet submitted and published
+Not yet submitted and published...
 
 # Authors and Contact
 
-GuohengQi qigh@semi.ac.cn
+GuohengQi: qigh@semi.ac.cn
